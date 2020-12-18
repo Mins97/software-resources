@@ -33,6 +33,7 @@
 | https://jaeseokim.github.io/         | [jaeskim](https://github.com/jaeSeoKim)         |
 | https://nadarm.tistory.com           | [jko](https://github.com/nadarm)                |
 | https://earthkingman.tistory.com/    | [ji-park](https://github.com/earthkingman)      |
+| https://blog.naver.com/tkarnrwl7862  | [minsekim](https://github.com/Mins97)           |
 | https://paikwiki.github.io           | [paikwiki](https://github.com/paikwiki)         |
 | https://velog.io/@sebaek42           | [sebaek42](https://github.com/sebaek42)         |
 | https://velog.io/@secho              | [secho](https://github.com/seongsangCHO)        |
